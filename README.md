@@ -6,7 +6,9 @@
 
 - Fall '21, I was a part of Mission Control Space Services as a Software Engineering Intern, where I worked on lunar rover software for the Emirates Lunar Mission and other cool space stuff.
 
-- I'm looking for Summer '22 opportunities - if you're interested in hiring me as an intern - reach out to me at [me] [at] [sgorantla] [dot] [ca]
+- Summer '22, I'll be joining [Shopify](https://shopify.com/) as a Software Engineering Intern with the Merchant Services - Balance and Activation team, enabling better banking and one seamless financial suite for Shopify merchants, making commerce better for everyone!
+
+- I'm looking for Fall '22 and Winter '23 internship opportunities - if you're interested in hiring me as an intern - reach out to me at [me] [at] [sgorantla] [dot] [ca]
 
 <!---
 dodeca12/dodeca12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
